@@ -42,7 +42,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusTegue&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTegue&layout=compact&theme=radical)
-![Metrics](https://metrics.lecoq.io/MateusTegue?template=classic&config.timezone=America%2FBogota)
+![Metrics](https://github.com/MateusTegue/MateusTegue/blob/main/metrics.svg)
+
 
 
 
