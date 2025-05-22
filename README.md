@@ -1,7 +1,7 @@
 ## 👋 Hi there
 
 # ¡Hola! Soy Mateus Tegue 
-
+![Banner descriptivo](ruta/o/url/del/banner.png)
 ## 🌱 Sobre mí
 - 👨‍💻 Soy Técnico y Tecnólogo en Desarrollo de Software.  
 - 🚀 Me apasiona explorar nuevas tecnologías para desarrollar soluciones eficientes.
