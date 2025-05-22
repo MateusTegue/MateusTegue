@@ -6,7 +6,7 @@
 - 👨‍💻 Soy Técnico y Tecnólogo en Desarrollo de Software.  
 - 🚀 Me apasiona explorar nuevas tecnologías para desarrollar soluciones eficientes.
 - 🌐 Me enfoco en el desarrollo web full-stack utilizando tecnologías bien posicionadas en la industria.
-- 📊 También me interesa el análisis de datos, utilizando herramientas como **Python**, **Excel** y **Power BI**.
+- 📊 También me interesa y dedico tiempo a el análisis de datos, utilizando herramientas como **Python**, **Excel** y **Power BI**.
 - 🎨 En mi tiempo libre, disfruto dibujar anime, una de mis habilidades artísticas que heredé de mi interés por el diseño gráfico.
 - 🛠️ Tengo experiencia en soporte técnico y mantenimiento de hardware: instalación de sistemas operativos, diagnóstico y reparación de equipos, entre otros.
 
