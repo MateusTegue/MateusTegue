@@ -16,7 +16,7 @@
 
 ## 💻 Tech Stack
 
-<table height="28">
+<table width="100">
   <tr>
     <th>Lenguajes</th>
     <th>Frameworks / Librerías</th>
