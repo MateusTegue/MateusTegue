@@ -41,7 +41,7 @@
 
 ## ⚙️ GitHub Analytics
 
-<table>
+<table width="100%">
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=MateusTegue&show_icons=true&theme=radical" width="100%"/>
     </td>
