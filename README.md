@@ -9,7 +9,7 @@
 - 🎨 En mi tiempo libre, disfruto dibujar anime, una de mis habilidades artísticas que heredé de mi interés por el diseño gráfico.
 - 🛠️ Tengo experiencia en soporte técnico y mantenimiento de hardware: instalación de sistemas operativos, diagnóstico y reparación de equipos, entre otros.
 
-📎 Puedes ver algunos de mis proyectos y trabajos en mi portafolio: [TuEnlaceDePortafolio.com](https://TuEnlaceDePortafolio.com)  
+📎 Puedes ver algunos de mis proyectos y trabajos en mi portafolio: [TuEnlaceDePortafolio.com](https://web-production-40bff.up.railway.app/)  
 📫 Si deseas contactarme, escríbeme a: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
 
 ---
