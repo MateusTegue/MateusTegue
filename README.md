@@ -10,7 +10,7 @@
 - 🛠️ Tengo experiencia en soporte técnico y mantenimiento de hardware: instalación de sistemas operativos, diagnóstico y reparación de equipos, entre otros.
 
 📎 Puedes ver algunos de mis proyectos y trabajos en mi portafolio: [Portafolio web](https://web-production-40bff.up.railway.app/)  
-📫 Si deseas contactarme, escríbeme a: [gmail](teusteguetorres2001@gmail.com)
+📫 Si deseas contactarme, escríbeme a: [teusteguetorres2001@gmail.com]
 
 ---
 ## 💻 Tech Stack
