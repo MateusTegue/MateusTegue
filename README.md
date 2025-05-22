@@ -41,10 +41,16 @@
 
 ## ⚙️ GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusTegue&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTegue&layout=compact&theme=radical)
-
-
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=MateusTegue&show_icons=true&theme=radical" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusTegue&layout=compact&theme=radical" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 
 
