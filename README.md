@@ -25,7 +25,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-REST%20Framework-cc3333?logo=django&logoColor=white)
+![Django Rest](https://img.shields.io/badge/DRF-REST%20Framework-cc3333?logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
