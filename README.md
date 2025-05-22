@@ -1,6 +1,4 @@
-## 👋 Hi there
-
-# ¡Hola! Soy Mateus Tegue 
+# 👋 ¡Hola! Soy Mateus Tegue 
 ![image](https://github.com/user-attachments/assets/0d29c595-9f0f-44b9-b171-7f7f3e6e4fa9)
 
 ## 🌱 Sobre mí
