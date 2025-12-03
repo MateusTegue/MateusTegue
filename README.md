@@ -1,5 +1,6 @@
 # 👋 Hi! I'm Mateus Tegue 
-![image](https://github.com/user-attachments/assets/0d29c595-9f0f-44b9-b171-7f7f3e6e4fa9)
+![image](<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/50363378-fdd9-4340-b18d-d5ab8587e796" />
+)
 
 ### 🌱 About Me
 
