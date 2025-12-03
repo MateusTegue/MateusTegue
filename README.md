@@ -39,7 +39,7 @@
 ## ⚙️ GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=MateusTegue&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=MateusTegue&layout=compact&theme=radical)
+![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=MateusTegue&layout=compact&theme=radical)
 
 ---
 ## 📫 Canales de comunicacion
