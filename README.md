@@ -1,16 +1,18 @@
 # 👋 ¡Hola! Soy Mateus Tegue 
 ![image](https://github.com/user-attachments/assets/0d29c595-9f0f-44b9-b171-7f7f3e6e4fa9)
 
-## 🌱 Sobre mí
-- 👨‍💻 Soy Técnico y Tecnólogo en Desarrollo de Software.  
-- 🚀 Me apasiona explorar nuevas tecnologías para desarrollar soluciones eficientes.
-- 🌐 Me enfoco en el desarrollo web full-stack utilizando tecnologías bien posicionadas en la industria.
-- 📊 También me interesa y dedico tiempo a el análisis de datos, utilizando herramientas como **Python**, **Excel** y **Power BI**.
-- 🎨 En mi tiempo libre, disfruto dibujar anime, una de mis habilidades artísticas que heredé de mi interés por el diseño gráfico.
-- 🛠️ Tengo experiencia en soporte técnico y mantenimiento de hardware: instalación de sistemas operativos, diagnóstico y reparación de equipos, entre otros.
+### 🌱 About Me
 
-📎 Puedes ver algunos de mis proyectos y trabajos en mi portafolio: [Portafolio web](https://portfolio-frontend-react-rho.vercel.app/)  
-📫 Si deseas contactarme, escríbeme a: teusteguetorres2001@gmail.com
+* 👨‍💻 I am a Software Development Technician and Technologist.
+* 🚀 I’m passionate about exploring new technologies to build efficient solutions.
+* 🌐 I focus on full-stack web development using industry-proven technologies.
+* 📊 I’m also interested in data analysis and dedicate time to learning tools such as **Python**, **Excel**, and **Power BI**.
+* 🎨 In my free time, I enjoy drawing anime—one of my artistic skills inspired by my interest in graphic design.
+* 🛠️ I have experience in technical support and hardware maintenance, including operating system installation, diagnostics, and equipment repair.
+
+
+📎 You can check out some of my projects and work in my portfolio: [Portafolio web](https://portfolio-frontend-react-rho.vercel.app/)  
+📫 If you’d like to contact me, feel free to write to me teusteguetorres2001@gmail.com
 
 ---
 ## 💻 Tech Stack
@@ -41,7 +43,7 @@
 ![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=MateusTegue&show_icons=true&theme=radical)
 
 ---
-## 📫 Canales de comunicacion
+## 📫 Contact Channels
 <p align="center">
   <a href="mailto:teusteguetorres2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mateus-tegue/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -52,5 +54,5 @@
 
 
 <p align="center">
-  Hecho con ❤️ por <strong>Mateus Tegue</strong> — ¡Gracias por visitar mi perfil!
+  Made with ❤️ by <strong>Mateus Tegue</strong> — Thank you for visiting my profile!
 </p>
