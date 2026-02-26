@@ -4,10 +4,15 @@
 🌱 About Me
 
 👨‍💻 Full-Stack Developer with hands-on experience building scalable web applications using JavaScript, TypeScript, Node.js, React, Django/Django REST, PostgreSQL and MongoDB.
+
 🚀 Passionate about designing secure and efficient systems, implementing RESTful APIs, authentication with JWT, and deploying cloud-based solutions using AWS and Docker.
+
 🌐 Experienced working in production environments under Scrum methodologies, focusing on clean architecture, performance optimization, and continuous improvement.
+
 📊 Interested in data analysis and continuously expanding my skills with tools like Python, Excel, and Power BI.
+
 🛠️ Background in technical support and IT infrastructure, with experience in troubleshooting, system maintenance, and hardware diagnostics.
+
 🎨 Outside of tech, I enjoy drawing anime and exploring creative design — a hobby that strengthens my attention to detail and visual thinking.
 
 📎 You can check out some of my projects and work in my portfolio: [Portafolio web](https://portfolio-frontend-react-rho.vercel.app/)  
