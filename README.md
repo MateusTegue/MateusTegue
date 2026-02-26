@@ -45,21 +45,23 @@
 
 ## ⚙️ GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=MateusTegue&show_icons=true&theme=radical)
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats-mirror.vercel.app/api?username=MateusTegue&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=MateusTegue&layout=compact&theme=radical" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img width="80%" src="https://streak-stats.demolab.com?user=MateusTegue&theme=radical" />
+
+</div>
 
 ---
 
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=MateusTegue&layout=compact&theme=radical)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MateusTegue&theme=radical)
-
----
 
 ## 📫 Contact Channels
 <p align="center">
