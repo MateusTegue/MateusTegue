@@ -42,11 +42,25 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
+
 ## ⚙️ GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=MateusTegue&show_icons=true&theme=radical)
 
 ---
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=MateusTegue&layout=compact&theme=radical)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MateusTegue&theme=radical)
+
+---
+
 ## 📫 Contact Channels
 <p align="center">
   <a href="mailto:teusteguetorres2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
