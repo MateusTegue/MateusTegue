@@ -1,15 +1,14 @@
 # 👋 Hi! I'm Mateus Tegue 
 ![image](https://github.com/user-attachments/assets/35402b7f-61b3-4308-b93f-5af07db9aaca)
 
-### 🌱 About Me
+🌱 About Me
 
-* 👨‍💻 I am a Software Development Technician and Technologist.
-* 🚀 I’m passionate about exploring new technologies to build efficient solutions.
-* 🌐 I focus on full-stack web development using industry-proven technologies.
-* 📊 I’m also interested in data analysis and dedicate time to learning tools such as **Python**, **Excel**, and **Power BI**.
-* 🎨 In my free time, I enjoy drawing anime—one of my artistic skills inspired by my interest in graphic design.
-* 🛠️ I have experience in technical support and hardware maintenance, including operating system installation, diagnostics, and equipment repair.
-
+👨‍💻 Full-Stack Developer with hands-on experience building scalable web applications using JavaScript, TypeScript, Node.js, React, Django/Django REST, PostgreSQL and MongoDB.
+🚀 Passionate about designing secure and efficient systems, implementing RESTful APIs, authentication with JWT, and deploying cloud-based solutions using AWS and Docker.
+🌐 Experienced working in production environments under Scrum methodologies, focusing on clean architecture, performance optimization, and continuous improvement.
+📊 Interested in data analysis and continuously expanding my skills with tools like Python, Excel, and Power BI.
+🛠️ Background in technical support and IT infrastructure, with experience in troubleshooting, system maintenance, and hardware diagnostics.
+🎨 Outside of tech, I enjoy drawing anime and exploring creative design — a hobby that strengthens my attention to detail and visual thinking.
 
 📎 You can check out some of my projects and work in my portfolio: [Portafolio web](https://portfolio-frontend-react-rho.vercel.app/)  
 📫 If you’d like to contact me, feel free to write to me teusteguetorres2001@gmail.com
